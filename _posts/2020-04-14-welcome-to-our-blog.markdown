@@ -4,7 +4,6 @@ title:  "Welcome to our Blog!"
 date:   2020-04-14 18:35:28 -0400
 categories: blog news
 excerpt: We decided to create this blog to post when a new version of project will be released, changelog, showoffs and about our tools.
-
 ---
 
 We decided to create this blog to post when a new version of project will be released, changelog, showoffs and about our tools.
@@ -16,7 +15,7 @@ Check out our projects:
 
 If you like our project, feel free to pay us a coffee, pizza or something else. [Click here][donation-link] check donations methods.
 
-[donation-link]: /donate.html
+[donation-link]: {{ '/donation' | relative_url }}
 [client-editor-link]: https://github.com/opentibiabr/client-editor
 [tools-link]: https://github.com/opentibiabr/tools
 [otservbr-global-link]: https://github.com/opentibiabr/client-editor
