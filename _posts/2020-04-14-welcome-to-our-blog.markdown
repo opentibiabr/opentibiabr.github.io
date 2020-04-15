@@ -18,4 +18,4 @@ If you like our project, feel free to pay us a coffee, pizza or something else. 
 [donation-link]: {{ '/donation' | relative_url }}
 [client-editor-link]: https://github.com/opentibiabr/client-editor
 [tools-link]: https://github.com/opentibiabr/tools
-[otservbr-global-link]: https://github.com/opentibiabr/client-editor
+[otservbr-global-link]: https://github.com/opentibiabr/otservbr-global
