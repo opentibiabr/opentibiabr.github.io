@@ -21,10 +21,9 @@
 title: OpenTibiaBR
 email: contato@otserv.com.br
 description: >- # this means to ignore newlines until "baseurl:"
-  OTServ Brasil - Global Server is a free and open-source
-  MMORPG server emulator written in C++. It is a fork of the Forgotten Server project.
-  To connect to the server and to take a stable experience, you can use our own client
-  and if you want to edit something, check our customized tools.
+  Open TibiaBR is a nonprofit organization founded in 2019
+  focused on awakening the open tibia server community in order
+  to improve projects and tools.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://opentibiabr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: null
