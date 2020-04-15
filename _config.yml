@@ -42,6 +42,8 @@ header_pages:
   - donate.markdown
   - about.markdown
 
+show_excerpts: true
+
 donations:
   'USD': 
     - 5
