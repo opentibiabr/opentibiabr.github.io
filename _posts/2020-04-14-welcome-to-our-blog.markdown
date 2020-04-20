@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to our Blog!"
 date:   2020-04-14 18:35:28 -0400
-categories: blog news
+categories: news
 excerpt: We decided to create this blog to post when a new version of project will be released, changelog, showoffs and about our tools.
 ---
 
