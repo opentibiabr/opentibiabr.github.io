@@ -48,6 +48,7 @@ This weekly we have implemented a lot of bug fixes and some new features, let's 
 If you like our project, feel free to pay us a coffee, pizza or something else. [Click here][donation-link] check donations methods.
 
 [donation-link]: {{ '/donation' | relative_url }}
+
 [repo-client-editor]: https://github.com/opentibiabr/client-editor/releases
 
 [pr-1027]: https://github.com/opentibiabr/otservbr-global/pull/1027
