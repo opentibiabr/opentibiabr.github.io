@@ -12,11 +12,11 @@ This weekly we have implemented a lot of bug fixes and some new features, let's 
 - Actions Checkers: [#1027][pr-1027] by [Costallat][gh-footot]
     - Added CPP and Lua Linter
 - Editor Config: [#1058][pr-1058] by [gpedro][gh-gpedro]
-- Added macOS support (**client-editor v1.2**)
+- Added macOS support (**[client-editor][repo-clienteditor] v1.2**)
 
 ### Changed
 
-- Bestiary Improvements: [#1022][pr-1022] by [FakeKinoshida][gh-fakekinoshia]
+- Bestiary Improvements: [#1022][pr-1022] by [FakeKinoshida][gh-fakeshinoda]
     - Update list of monsters useds included on the bestiary
     - Finished monsters ocurrence
     - Fixed some messages
@@ -33,7 +33,7 @@ This weekly we have implemented a lot of bug fixes and some new features, let's 
 
 ### Fixed
 
-- Market Issues: [#1021][pr-1021] by [FakeKinoshida][gh-fakekinoshia]
+- Market Issues: [#1021][pr-1021] by [FakeKinoshida][gh-fakeshinoda]
     - Prevent seller from buying your own offer
     - Fixed the cash discount at the bank
 - Doors Issue: [#1026][pr-1026] by [omarcopires][gh-omarcopires]
@@ -48,6 +48,7 @@ This weekly we have implemented a lot of bug fixes and some new features, let's 
 If you like our project, feel free to pay us a coffee, pizza or something else. [Click here][donation-link] check donations methods.
 
 [donation-link]: {{ '/donation' | relative_url }}
+[repo-client-editor]: https://github.com/opentibiabr/client-editor/releases
 
 [pr-1027]: https://github.com/opentibiabr/otservbr-global/pull/1027
 [pr-1058]: https://github.com/opentibiabr/otservbr-global/pull/1058
@@ -70,11 +71,10 @@ If you like our project, feel free to pay us a coffee, pizza or something else. 
 
 [gh-footot]: https://github.com/footot
 [gh-gpedro]: https://github.com/gpedro
-[gh-fakekinoshia]: https://github.com/fakekinoshia
+[gh-fakeshinoda]: https://github.com/fakeshinoda
 [gh-diegoot]: https://github.com/diego-ot
 [gh-gabz182]: https://github.com/gabz182
 [gh-omarcopires]: https://github.com/omarcopires
-[gh-fakekinoshia]: https://github.com/fakekinoshia
 [gh-fearlucien]: https://github.com/fearlucien
-[gh-majesty]: https://github.com/majesty
+[gh-majesty]: https://github.com/majestyotbr
 [gh-oen44]: https://github.com/oen44
