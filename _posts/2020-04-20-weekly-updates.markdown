@@ -49,32 +49,32 @@ If you like our project, feel free to pay us a coffee, pizza or something else. 
 
 [donation-link]: {{ '/donation' | relative_url }}
 
-[pr-1027][https://github.com/opentibiabr/otservbr-global/pull/1027]
-[pr-1058][https://github.com/opentibiabr/otservbr-global/pull/1058]
-[pr-1022][https://github.com/opentibiabr/otservbr-global/pull/1022]
-[pr-1017][https://github.com/opentibiabr/otservbr-global/pull/1017]
-[pr-1020][https://github.com/opentibiabr/otservbr-global/pull/1020]
-[pr-1021][https://github.com/opentibiabr/otservbr-global/pull/1021]
-[pr-1035][https://github.com/opentibiabr/otservbr-global/pull/1035]
-[pr-1031][https://github.com/opentibiabr/otservbr-global/pull/1031]
-[pr-1008][https://github.com/opentibiabr/otservbr-global/pull/1008]
-[pr-1021][https://github.com/opentibiabr/otservbr-global/pull/1021]
-[pr-1026][https://github.com/opentibiabr/otservbr-global/pull/1026]
-[pr-1016][https://github.com/opentibiabr/otservbr-global/pull/1016]
-[pr-1046][https://github.com/opentibiabr/otservbr-global/pull/1046]
-[pr-1058][https://github.com/opentibiabr/otservbr-global/pull/1058]
-[pr-1055][https://github.com/opentibiabr/otservbr-global/pull/1055]
-[pr-1049][https://github.com/opentibiabr/otservbr-global/pull/1049]
-[pr-1050][https://github.com/opentibiabr/otservbr-global/pull/1050]
-[pr-1051][https://github.com/opentibiabr/otservbr-global/pull/1051]
+[pr-1027]: https://github.com/opentibiabr/otservbr-global/pull/1027
+[pr-1058]: https://github.com/opentibiabr/otservbr-global/pull/1058
+[pr-1022]: https://github.com/opentibiabr/otservbr-global/pull/1022
+[pr-1017]: https://github.com/opentibiabr/otservbr-global/pull/1017
+[pr-1020]: https://github.com/opentibiabr/otservbr-global/pull/1020
+[pr-1021]: https://github.com/opentibiabr/otservbr-global/pull/1021
+[pr-1035]: https://github.com/opentibiabr/otservbr-global/pull/1035
+[pr-1031]: https://github.com/opentibiabr/otservbr-global/pull/1031
+[pr-1008]: https://github.com/opentibiabr/otservbr-global/pull/1008
+[pr-1021]: https://github.com/opentibiabr/otservbr-global/pull/1021
+[pr-1026]: https://github.com/opentibiabr/otservbr-global/pull/1026
+[pr-1016]: https://github.com/opentibiabr/otservbr-global/pull/1016
+[pr-1046]: https://github.com/opentibiabr/otservbr-global/pull/1046
+[pr-1058]: https://github.com/opentibiabr/otservbr-global/pull/1058
+[pr-1055]: https://github.com/opentibiabr/otservbr-global/pull/1055
+[pr-1049]: https://github.com/opentibiabr/otservbr-global/pull/1049
+[pr-1050]: https://github.com/opentibiabr/otservbr-global/pull/1050
+[pr-1051]: https://github.com/opentibiabr/otservbr-global/pull/1051
 
-[gh-footot][https://github.com/footot]
-[gh-gpedro][https://github.com/gpedro]
-[gh-fakekinoshia][https://github.com/fakekinoshia]
-[gh-diegoot][https://github.com/diego-ot]
-[gh-gabz182][https://github.com/gabz182]
-[gh-omarcopires][https://github.com/omarcopires]
-[gh-fakekinoshia][https://github.com/fakekinoshia]
-[gh-fearlucien][https://github.com/fearlucien]
-[gh-majesty][https://github.com/majesty]
-[gh-oen44][https://github.com/oen44]
+[gh-footot]: https://github.com/footot
+[gh-gpedro]: https://github.com/gpedro
+[gh-fakekinoshia]: https://github.com/fakekinoshia
+[gh-diegoot]: https://github.com/diego-ot
+[gh-gabz182]: https://github.com/gabz182
+[gh-omarcopires]: https://github.com/omarcopires
+[gh-fakekinoshia]: https://github.com/fakekinoshia
+[gh-fearlucien]: https://github.com/fearlucien
+[gh-majesty]: https://github.com/majesty
+[gh-oen44]: https://github.com/oen44
