@@ -11,7 +11,7 @@ This weekly we have implemented a lot of bug fixes and some new features, let's 
 ### Added
 - Actions Checkers: [#1027][pr-1027] by [Costallat][gh-footot]
     - Added CPP and Lua Linter
-- Editor Config: [#1058][pr-1058] by [gpedro][gh-gpedro]
+- Editor Config: [#1057][pr-1057] by [gpedro][gh-gpedro]
 - Added macOS support: ([client-editor v1.2][repo-clienteditor])
 
 ### Changed
@@ -22,7 +22,7 @@ This weekly we have implemented a lot of bug fixes and some new features, let's 
     - Fixed some messages
 - Minotaurs Tasks: [#1017][pr-1017] by [Diego-OT][gh-diegoot]
     - Completely rewrote
-- Npc Issue: [#1020][pr-1020]/[#1021][pr-1021] by [Diego-OT][gh-diegoot]
+- Npc Issue: [#1019][pr-1019]/[#1020][pr-1020] by [Diego-OT][gh-diegoot]
     - Fixed outfit and transcript to NPC Huntsman
 - Imbuements updates: [#1035][pr-1035] by [gabz182][gh-gabz182]
 
@@ -51,31 +51,31 @@ If you like our project, feel free to pay us a coffee, pizza or something else. 
 
 [repo-clienteditor]: https://github.com/opentibiabr/client-editor/releases
 
-[pr-1027]: https://github.com/opentibiabr/otservbr-global/pull/1027
-[pr-1058]: https://github.com/opentibiabr/otservbr-global/pull/1058
-[pr-1022]: https://github.com/opentibiabr/otservbr-global/pull/1022
+[pr-1008]: https://github.com/opentibiabr/otservbr-global/pull/1008
+[pr-1016]: https://github.com/opentibiabr/otservbr-global/pull/1016
 [pr-1017]: https://github.com/opentibiabr/otservbr-global/pull/1017
+[pr-1019]: https://github.com/opentibiabr/otservbr-global/pull/1019
 [pr-1020]: https://github.com/opentibiabr/otservbr-global/pull/1020
 [pr-1021]: https://github.com/opentibiabr/otservbr-global/pull/1021
-[pr-1035]: https://github.com/opentibiabr/otservbr-global/pull/1035
-[pr-1031]: https://github.com/opentibiabr/otservbr-global/pull/1031
-[pr-1008]: https://github.com/opentibiabr/otservbr-global/pull/1008
-[pr-1021]: https://github.com/opentibiabr/otservbr-global/pull/1021
+[pr-1022]: https://github.com/opentibiabr/otservbr-global/pull/1022
 [pr-1026]: https://github.com/opentibiabr/otservbr-global/pull/1026
-[pr-1016]: https://github.com/opentibiabr/otservbr-global/pull/1016
+[pr-1027]: https://github.com/opentibiabr/otservbr-global/pull/1027
+[pr-1031]: https://github.com/opentibiabr/otservbr-global/pull/1031
+[pr-1035]: https://github.com/opentibiabr/otservbr-global/pull/1035
 [pr-1046]: https://github.com/opentibiabr/otservbr-global/pull/1046
-[pr-1058]: https://github.com/opentibiabr/otservbr-global/pull/1058
-[pr-1055]: https://github.com/opentibiabr/otservbr-global/pull/1055
 [pr-1049]: https://github.com/opentibiabr/otservbr-global/pull/1049
 [pr-1050]: https://github.com/opentibiabr/otservbr-global/pull/1050
 [pr-1051]: https://github.com/opentibiabr/otservbr-global/pull/1051
+[pr-1055]: https://github.com/opentibiabr/otservbr-global/pull/1055
+[pr-1057]: https://github.com/opentibiabr/otservbr-global/pull/1057
+[pr-1058]: https://github.com/opentibiabr/otservbr-global/pull/1058
 
-[gh-footot]: https://github.com/footot
-[gh-gpedro]: https://github.com/gpedro
-[gh-fakeshinoda]: https://github.com/fakeshinoda
 [gh-diegoot]: https://github.com/diego-ot
-[gh-gabz182]: https://github.com/gabz182
-[gh-omarcopires]: https://github.com/omarcopires
+[gh-fakeshinoda]: https://github.com/fakeshinoda
 [gh-fearlucien]: https://github.com/fearlucien
+[gh-footot]: https://github.com/footot
+[gh-gabz182]: https://github.com/gabz182
+[gh-gpedro]: https://github.com/gpedro
 [gh-majesty]: https://github.com/majestyotbr
 [gh-oen44]: https://github.com/oen44
+[gh-omarcopires]: https://github.com/omarcopires
