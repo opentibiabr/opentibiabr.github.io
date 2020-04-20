@@ -12,7 +12,7 @@ This weekly we have implemented a lot of bug fixes and some new features, let's 
 - Actions Checkers: [#1027][pr-1027] by [Costallat][gh-footot]
     - Added CPP and Lua Linter
 - Editor Config: [#1058][pr-1058] by [gpedro][gh-gpedro]
-- Added macOS support (**[client-editor][repo-clienteditor] v1.2**)
+- Added macOS support: ([client-editor v1.2][repo-clienteditor])
 
 ### Changed
 
@@ -21,7 +21,7 @@ This weekly we have implemented a lot of bug fixes and some new features, let's 
     - Finished monsters ocurrence
     - Fixed some messages
 - Minotaurs Tasks: [#1017][pr-1017] by [Diego-OT][gh-diegoot]
-    - Completely rewrote by DiegoOT
+    - Completely rewrote
 - Npc Issue: [#1020][pr-1020]/[#1021][pr-1021] by [Diego-OT][gh-diegoot]
     - Fixed outfit and transcript to NPC Huntsman
 - Imbuements updates: [#1035][pr-1035] by [gabz182][gh-gabz182]
