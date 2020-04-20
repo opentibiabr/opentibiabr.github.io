@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Weekly Updates"
+title:  "Weekly Update #01"
 date:   2020-04-20 09:10:00 -0400
 categories: blog news updates
 excerpt: This weekly we have implemented a lot of bug fixes and some new features, let's check out!
