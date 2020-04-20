@@ -49,7 +49,7 @@ If you like our project, feel free to pay us a coffee, pizza or something else. 
 
 [donation-link]: {{ '/donation' | relative_url }}
 
-[repo-client-editor]: https://github.com/opentibiabr/client-editor/releases
+[repo-clienteditor]: https://github.com/opentibiabr/client-editor/releases
 
 [pr-1027]: https://github.com/opentibiabr/otservbr-global/pull/1027
 [pr-1058]: https://github.com/opentibiabr/otservbr-global/pull/1058
