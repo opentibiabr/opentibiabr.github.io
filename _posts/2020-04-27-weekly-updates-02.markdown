@@ -11,16 +11,16 @@ This week was insane! We got more than 50 issues solved. Special thanks for [Hei
 If you like our project, feel free to pay us a coffee, pizza or something else. [Click here][donation-link] check donations methods.
 
 ### Added
-- OrctoberFest: [#1059][pr-1059] by [lucaslking][gh-lucaslking]
+- **[NEW TOOL]** search items from tibia.fandom.com: [clientid finder][link-clientid-finder] by [gpedro][gh-gpedro] [(source-code)][repo-clientid-finder]
+- Orcsoberfest: [#1059][pr-1059] by [lucaslking][gh-lucaslking]
 - Blessing for High Level Players: [#1059][pr-1059] by [dudants][gh-dudants]
 - Missing some areas: [#1059][pr-1059] by [dudants][gh-dudants] and [lucaslking][gh-lucaslking]
 - Added Kais and Nomad NPC to the map: [#1059][pr-1059] by [dudants][gh-dudants]
-- **[NEW TOOL]** search items from tibia.fandom.com: [clientid finder][link-clientid-finder] by [gpedro][gh-gpedro] [(source-code)][repo-clientid-finder]
 - Water Buffalo respawns: [#1059][pr-1059] by [dudants][gh-dudants]
 - Gooey Mass: [#1059][pr-1059] by [dudants][gh-dudants]
 - Orc Sam's Backpack Raid: [#1059][pr-1059] by [dudants][gh-dudants]
 - Moonlight Crystal (Amulet): [#1059][pr-1059] by [dudants][gh-dudants]
-- Actions Definitions:
+- Actions Definitions): [#1059][pr-1059] by [dudants][gh-dudants]
   - AID 100 for unmoveable items
   - AID 101 for pick holes
   - AID 102 for down floor teleport
@@ -31,7 +31,7 @@ If you like our project, feel free to pay us a coffee, pizza or something else. 
 
 ### Removed
 
-- Nothing
+- Nothing :)
 
 ### Fixed
 - Loot Issues: [#1059][pr-1059] by [dudants][gh-dudants]
