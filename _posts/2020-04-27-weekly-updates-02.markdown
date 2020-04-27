@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "Weekly Update #01"
-date:   2020-04-27 10:900:00 -0400
+date:   2020-04-27 10:00:00 -0400
 categories: updates
 excerpt: This week was insane! We got more than 50 issues solved
 ---
 
 This week was insane! We got more than 50 issues solved. Special thanks for [Heitortadeu][gh-heitortadeu] for reporting issue [#1005][issue-1005].
+
+If you like our project, feel free to pay us a coffee, pizza or something else. [Click here][donation-link] check donations methods.
 
 ### Added
 - OrctoberFest: [#1059][pr-1059] by [lucaslking][gh-lucaslking]
@@ -78,7 +80,7 @@ If you like our project, feel free to pay us a coffee, pizza or something else. 
 [donation-link]: {{ '/donation' | relative_url }}
 
 [repo-clientid-finder]: https://github.com/opentibiabr/clientid-finder
-[link-clientid-finder]: https://opentibiabr.github.io/clientid-finder/
+[link-clientid-finder]: https://opentibiabr.github.io/clientid-finder
 
 [issue-1005]: https://github.com/opentibiabr/otservbr-global/issues/1005
 
