@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Weekly Update #01"
+title:  "Weekly Update #2"
 date:   2020-04-27 10:00:00 -0400
 categories: updates
 excerpt: This week was insane! We got more than 50 issues solved
