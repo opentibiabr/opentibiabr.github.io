@@ -88,7 +88,7 @@ If you like our project, feel free to pay us a coffee, pizza or something else. 
 [pr-1063]: https://github.com/opentibiabr/otservbr-global/pull/1063
 [pr-1071]: https://github.com/opentibiabr/otservbr-global/pull/1071
 
-[gh-geitortadeu]: https://github.com/Heitortadeu
+[gh-heitortadeu]: https://github.com/Heitortadeu
 [gh-dudants]: https://github.com/dudantas
 [gh-lucaslking]: https://github.com/lucaslking
 [gh-jlcvp]: https://github.com/jlcvp
