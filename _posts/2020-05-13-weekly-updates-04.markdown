@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weekly Update #04"
-date:   2020-05-14 02:00:00 -0400
+date:   2020-05-14 01:50:00 -0400
 categories: updates
 excerpt: this weekly was delayed a little bit but we have pretty good news! we are so happy with a lot of contributions and bug reports
 ---
