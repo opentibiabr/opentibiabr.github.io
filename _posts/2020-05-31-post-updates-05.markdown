@@ -3,10 +3,10 @@ layout: post
 title:  "Fortnightly Update #05" (from the 15th to the 31st of May.)
 date:   2020-05-31 12:00:00 -0400
 categories: updates
-excerpt: this weekly was delayed a little bit but we have pretty good news! we are so happy with a lot of contributions and bug reports
+excerpt: this post was delayed a little bit but we have pretty good news! we are so happy with a lot of contributions and bug reports
 ---
 
-This weekly was delayed a little bit but we have pretty good news! we are so happy with a lot of contributions and bug reports
+This post was delayed a little bit but we have pretty good news! we are so happy with a lot of contributions and bug reports
 
 #### Special Thanks for our Donators
 
@@ -34,7 +34,7 @@ This weekly was delayed a little bit but we have pretty good news! we are so hap
 - Jack to the future quest (Research and development): [#1199][pr-1199] by [YohanAugusto][gh-yohanaugusto]
 - Somes typos:
   - Fix typos in cult of tibia quest: [#1205][pr-1205] by [oualid6496][gh-oualid6496]
-  - ix incorrect line break in blessings.lua: [#1214][pr-1214] by [omarcopires][gh-omarcopires]
+  - Fix incorrect line break in blessings.lua: [#1214][pr-1214] by [omarcopires][gh-omarcopires]
 - Fixed login/logout effects for gamemasters: [#1214][pr-1214] by [andersonfaaria][gh-andersonfaaria]
 - Fix build in linux: [#1223][pr-1223] by [costallat][gh-costallat]
 - Docker does not go up: [#1228][pr-1228] by [Riicksouzaa][gh-Riicksouzaa]
