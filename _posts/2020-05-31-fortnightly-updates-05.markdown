@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "Fortnightly Update #05" (from the 15th to the 31st of May.)
+title:  "Fortnightly Update #05"
 date:   2020-05-31 12:00:00 -0400
 categories: updates
-excerpt: this post was delayed a little bit but we have pretty good news! we are so happy with a lot of contributions and bug reports
+excerpt: we changed from weekly to fortnightly. we are doing a lot of thing here xD
 ---
 
-This post was delayed a little bit but we have pretty good news! we are so happy with a lot of contributions and bug reports
-
 #### Special Thanks for our Donators
+- Diego Barbarote Dos Santos
 
 ### Added
 - Missing NPC Iwar: [#1232][pr-1232] by [omarcopires][gh-omarcopires]
@@ -35,7 +34,7 @@ This post was delayed a little bit but we have pretty good news! we are so happy
 - Somes typos:
   - Fix typos in cult of tibia quest: [#1205][pr-1205] by [oualid6496][gh-oualid6496]
   - Fix incorrect line break in blessings.lua: [#1214][pr-1214] by [omarcopires][gh-omarcopires]
-- Fixed login/logout effects for gamemasters: [#1214][pr-1214] by [andersonfaaria][gh-andersonfaaria]
+- Fixed login/logout effects for gamemasters: [#1222][pr-1222] by [andersonfaaria][gh-andersonfaaria]
 - Fix build in linux: [#1223][pr-1223] by [costallat][gh-costallat]
 - Docker does not go up: [#1228][pr-1228] by [Riicksouzaa][gh-Riicksouzaa]
 - Fix typo in NPC Hugo talks: [#1230][pr-1230] by [Riicksouzaa][gh-Riicksouzaa]
@@ -67,7 +66,7 @@ If you like our project, feel free to pay us a coffee, pizza or something else. 
 
 [pr-1146]: https://github.com/opentibiabr/otservbr-global/pull/1146
 [pr-1198]: https://github.com/opentibiabr/otservbr-global/pull/1198
-[pr-1199]: https://github.com/opentibiabr/otservbr-global/pull/1196
+[pr-1199]: https://github.com/opentibiabr/otservbr-global/pull/1199
 [pr-1201]: https://github.com/opentibiabr/otservbr-global/pull/1201
 [pr-1200]: https://github.com/opentibiabr/otservbr-global/pull/1200
 [pr-1205]: https://github.com/opentibiabr/otservbr-global/pull/1205
