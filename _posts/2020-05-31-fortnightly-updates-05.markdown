@@ -27,7 +27,7 @@ excerpt: we changed from weekly to fortnightly. we are doing a lot of thing here
 
 ### Removed
 - Duplicate monsters:
-  - Cave Devourer, Diremaw, Tunnel Tyrant, on: [88d9f04a5][commit-88d9f04a5] by [dudantas][gh-dudantas]
+  - Cave Devourer, Diremaw, Tunnel Tyrant, [88d9f04a5][commit-88d9f04a5] by [dudantas][gh-dudantas]
 
 ### Fixed
 - Jack to the future quest (Research and development): [#1199][pr-1199] by [YohanAugusto][gh-yohanaugusto]
@@ -48,7 +48,7 @@ excerpt: we changed from weekly to fortnightly. we are doing a lot of thing here
 - Healing Crit Fix: [#1268][pr-1268] by [hyresu][gh-hyresu]
 - Stonerefiners shouldn't see invisible enemies: [#1280][pr-1280] by [nickolasdeluca][gh-nickolasdeluca]
 - Door system:
-  - Refactored the door system and resolves[#1279][issue-1279]: [0a4d241][commit-0a4d241] by [dudantas][gh-dudantas]
+  - Refactored the door system and resolves [#1279][issue-1279]: [0a4d241][commit-0a4d241] by [dudantas][gh-dudantas]
 - Fix speed of monsters (warzone 5 and 6) and drop unused files: [88d9f04a5][commit-88d9f04a5] by [dudantas][gh-dudantas]
 - Fix for the custom doors not opening: [15282fd6a][commit-15282fd6a] by [dudantas][gh-dudantas]
 
