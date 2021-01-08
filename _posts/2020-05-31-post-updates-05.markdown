@@ -23,8 +23,8 @@ This post was delayed a little bit but we have pretty good news! we are so happy
 ### Changed
 - Changing Imbuements formula: [#1146][pr-1146] by [andersonfaaria][gh-andersonfaaria]
 - Monster Improvement (Distance Target Choice): [#1198][pr-1198] by [andersonfaaria][gh-andersonfaaria]
-- Improving onDestroyItem: [#1237)][pr-1237)] by [andersonfaaria][gh-andersonfaaria]
-- Improve onKill callback: [#1201)][pr-1201)] by [andersonfaaria][gh-andersonfaaria]
+- Improving onDestroyItem: [#1237][pr-1237] by [andersonfaaria][gh-andersonfaaria]
+- Improve onKill callback: [#1201][pr-1201] by [andersonfaaria][gh-andersonfaaria]
 
 ### Removed
 - Duplicate monsters:
@@ -43,7 +43,7 @@ This post was delayed a little bit but we have pretty good news! we are so happy
 - Fix pet death register method and fix missing space between in look: [#1241][pr-1241] by [oalbsilva][gh-oalbsilva]
 - Fixing coin cloning: [#1243][pr-1243] by [andersonfaaria][gh-andersonfaaria]
 - Possible fix to decay item: [#1231][pr-1231] by [costallat][gh-costallat]
-- Blocking corpses to be deleted upon push (fix #1918): [#1200][pr-1200] by [andersonfaaria][gh-andersonfaaria]
+- Blocking corpses to be deleted upon push [#1918][issue-1918]: [#1200][pr-1200] by [andersonfaaria][gh-andersonfaaria]
 - Fixing Sub type problems: [#1217][pr-1217] by [andersonfaaria][gh-andersonfaaria]
 - Fix for not saving on shutdown and fix warnings: [#1271][pr-1271] by [dudantas][gh-dudantas]
 - Healing Crit Fix: [#1268][pr-1268] by [hyresu][gh-hyresu]
@@ -70,6 +70,7 @@ If you like our project, feel free to pay us a coffee, pizza or something else. 
 [pr-1199]: https://github.com/opentibiabr/otservbr-global/pull/1196
 [pr-1201]: https://github.com/opentibiabr/otservbr-global/pull/1201
 [pr-1200]: https://github.com/opentibiabr/otservbr-global/pull/1200
+[pr-1205]: https://github.com/opentibiabr/otservbr-global/pull/1205
 [pr-1213]: https://github.com/opentibiabr/otservbr-global/pull/1213
 [pr-1214]: https://github.com/opentibiabr/otservbr-global/pull/1214
 [pr-1217]: https://github.com/opentibiabr/otservbr-global/pull/1217
@@ -80,6 +81,7 @@ If you like our project, feel free to pay us a coffee, pizza or something else. 
 [pr-1231]: https://github.com/opentibiabr/otservbr-global/pull/1231
 [pr-1232]: https://github.com/opentibiabr/otservbr-global/pull/1232
 [pr-1233]: https://github.com/opentibiabr/otservbr-global/pull/1233
+[pr-1235]: https://github.com/opentibiabr/otservbr-global/pull/1235
 [pr-1236]: https://github.com/opentibiabr/otservbr-global/pull/1236
 [pr-1237]: https://github.com/opentibiabr/otservbr-global/pull/1237
 [pr-1238]: https://github.com/opentibiabr/otservbr-global/pull/1238
@@ -94,6 +96,7 @@ If you like our project, feel free to pay us a coffee, pizza or something else. 
 
 [issue-1229]: https://github.com/opentibiabr/otservbr-global/pull/1229
 [issue-1279]: https://github.com/opentibiabr/otservbr-global/pull/1279
+[issue-1918]: https://github.com/opentibiabr/otservbr-global/pull/1918
 
 [gh-yohanaugusto]: https://github.com/yohanaugusto
 [gh-omarcopires]: https://github.com/omarcopires
@@ -104,5 +107,5 @@ If you like our project, feel free to pay us a coffee, pizza or something else. 
 [gh-dudantas]: https://github.com/dudantas
 [gh-oalbsilva]: https://github.com/oalbsilva
 [gh-Heitortadeu]: https://github.com/Heitortadeu
-[gh-Heitortadeu]: https://github.com/hyresu
-[gh-Heitortadeu]: https://github.com/nickolasdeluca
+[gh-hyresu]: https://github.com/hyresu
+[gh-nickolasdeluca]: https://github.com/nickolasdeluca
