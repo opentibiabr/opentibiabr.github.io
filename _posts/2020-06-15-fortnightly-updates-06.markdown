@@ -3,11 +3,11 @@ layout: post
 title:  "Fortnightly Update #06"
 date:   2020-06-15 11:00:00 -0400
 categories: updates
-excerpt: we are doing a lot of thing here xD
+excerpt: breaking change: the map is now zip format instead of rar. feature: hirelings made by jlcvp
 ---
 
 #### Special Thanks for our Donators
-- Unfortunately we did not have any donations in the period. If you like our project, feel free to pay us a coffee, pizza or something else. [Click here][donation-link] check donations methods.
+- Unfortunately, we did not have any donations in the period. If you like our project, feel free to pay us a coffee, pizza, or something else. [Click here][donation-link] check donations methods.
 
 ### Added
 - Feat: dawnport revision and fixes: [#1134][pr-1134] by [dudantas][gh-dudantas]
@@ -24,7 +24,7 @@ excerpt: we are doing a lot of thing here xD
 - Update map from rar to zip (docker+gha): [#1313][pr-1313] by [costallat][gh-costallat]
 - Refactor account class: [#1259][pr-1259] by [costallat][gh-costallat]
 - NPC trade ability fixes + other missing npc dialogs: [#1269][pr-1269] by [nickolasdeluca][gh-nickolasdeluca]
-- Feat: OTC and 12.x only compatibility: [#1195][pr-1195] by [dudantas][gh-dudantas], [FakeShinoda][gh-FakeShinoda], [gh-lgrossi][gh-lgrossi]
+- Feat: OTC and 12.x only compatibility: [#1195][pr-1195] by [dudantas][gh-dudantas], [FakeShinoda][gh-FakeShinoda], [lgrossi][gh-lgrossi]
 - Improvement - Npc Callback onRemove: [#1204][pr-1204] by [andersonfaaria][gh-andersonfaaria]
 - Some very useful functions: [#1234][pr-1234] by [andersonfaaria][gh-andersonfaaria]
 - chore: reorganization and cleaning of the datapack: [#1325][pr-1325] by [dudantas][gh-dudantas]
