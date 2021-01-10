@@ -3,7 +3,7 @@ layout: post
 title:  "Fortnightly Update #06"
 date:   2020-06-15 11:00:00 -0400
 categories: updates
-excerpt: breaking change: the map is now zip format instead of rar. feature: hirelings made by jlcvp
+excerpt: "breaking change: the map is now zip format instead of rar. feature: hirelings made by jlcvp"
 ---
 
 #### Special Thanks for our Donators
