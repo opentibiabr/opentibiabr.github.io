@@ -11,7 +11,11 @@ We are a nonprofit open-source project. You can help by buying us a coffee or pi
     <thead>
         <tr>
         {% for value in donation[1] %}
+            {% if value == 'custom' %}
+            <th>Any Value ({{ donation[0] }})</th>
+            {% else %}
             <th>{{ value }} {{ donation[0] }}</th>
+            {% endif %}
         {% endfor %}
         </tr>
     </thead>
@@ -24,15 +28,14 @@ We are a nonprofit open-source project. You can help by buying us a coffee or pi
                 <input type="hidden" name="business" value="RUSTZRBUEXK82" />
                 <input type="hidden" name="item_name" value="OpenTibiaBR Project" />
                 <input type="hidden" name="currency_code" value="{{ donation[0] }}" />
+                {% if value != 'custom' %}
                 <input type="hidden" name="amount" value="{{ value }}" />
+                {% endif %}
                 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-                <img alt="" border="0" src="https://www.paypal.com/en_BR/i/scr/pixel.gif" width="1" height="1" />
+                <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
             </form>
         </td>
         {% endfor %}
     </tr>
 </table>
 {% endfor %}
-
-
-
