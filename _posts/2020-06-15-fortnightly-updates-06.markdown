@@ -7,6 +7,7 @@ excerpt: we are doing a lot of thing here xD
 ---
 
 #### Special Thanks for our Donators
+- Unfortunately we did not have any donations in the period. If you like our project, feel free to pay us a coffee, pizza or something else. [Click here][donation-link] check donations methods.
 
 ### Added
 - Feat: dawnport revision and fixes: [#1134][pr-1134] by [dudantas][gh-dudantas]
