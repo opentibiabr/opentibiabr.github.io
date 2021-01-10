@@ -39,8 +39,8 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - donate.markdown
   - about.markdown
+  - donate.markdown
 
 show_excerpts: true
 
@@ -49,10 +49,12 @@ donations:
     - 5
     - 10 
     - 25
+    - custom
   'BRL':
     - 10
     - 25
     - 50
+    - custom
 
 # Exclude from processing.
 # The following items will not be processed, by default.
