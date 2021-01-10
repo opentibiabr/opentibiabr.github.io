@@ -23,7 +23,7 @@ excerpt: we are doing a lot of thing here xD
 - Update map from rar to zip (docker+gha): [#1313][pr-1313] by [costallat][gh-costallat]
 - Refactor account class: [#1259][pr-1259] by [costallat][gh-costallat]
 - NPC trade ability fixes + other missing npc dialogs: [#1269][pr-1269] by [nickolasdeluca][gh-nickolasdeluca]
-- Feat: OTC and 12.x only compatibility: [#1195][pr-1195] by [dudantas][gh-dudantas],[FakeShinoda][gh-FakeShinoda],[gh-lgrossi][gh-lgrossi]
+- Feat: OTC and 12.x only compatibility: [#1195][pr-1195] by [dudantas][gh-dudantas], [FakeShinoda][gh-FakeShinoda], [gh-lgrossi][gh-lgrossi]
 - Improvement - Npc Callback onRemove: [#1204][pr-1204] by [andersonfaaria][gh-andersonfaaria]
 - Some very useful functions: [#1234][pr-1234] by [andersonfaaria][gh-andersonfaaria]
 - chore: reorganization and cleaning of the datapack: [#1325][pr-1325] by [dudantas][gh-dudantas]
