@@ -18,7 +18,6 @@ excerpt: we are doing a lot of thing here xD
 
 
 ### Changed
-- Fix on captain dreadnought NPC related to [#1134][pr-1134]: [e69199ab2][commit-e69199ab2] by [dudantas][gh-dudantas]
 - Refactored npc Captain Dreadnought: [3fdc41f2e][commit-3fdc41f2e] by [dudantas][gh-dudantas]
 - Convert the map from rar to zip file: [#1306][pr-1306] by [dudantas][gh-dudantas]
 - Update map from rar to zip (docker+gha): [#1313][pr-1313] by [costallat][gh-costallat]
@@ -34,8 +33,9 @@ excerpt: we are doing a lot of thing here xD
 - Nothing xD
 
 ### Fixed
+- Fix on captain dreadnought NPC related to [#1134][pr-1134]: [e69199ab2][commit-e69199ab2] by [dudantas][gh-dudantas]
 - Resolves [#1278][issue-1278] carpets issue: [#1292][pr-1292] by [CharlySample][gh-CharlySample]
-- Resolves [#1253][issue-1253] add lastday to the account table when purchasing premium in store (#1291): [#1291][pr-1291] by [dudantas][gh-dudantas]
+- Resolves [#1253][issue-1253] add lastday to the account table when purchasing premium in store: [#1291][pr-1291] by [dudantas][gh-dudantas]
 - Some fixes in dawnport: [#1293][pr-1293] by [dudantas][gh-dudantas]
 - Fix imbuement not removing money and items: [#1251][pr-1251] by [gerotib][gh-gerotib]
 - Fix Quest Reward (Mintwallin Cyclops and Mad Mage Room): [#1301][pr-1301] by [vinioliveirasilva][gh-vinioliveirasilva]
@@ -51,7 +51,7 @@ excerpt: we are doing a lot of thing here xD
 - Issue Fix Pack: [#1252][pr-1252] by [FakeShinoda][gh-FakeShinoda]
 - Resolves [#1350][issue-1350] (wrong door id): [#1351][pr-1351] by [dudantas][gh-dudantas]
 - Fix typo in the arena 10x10 script: [#1352][pr-1352] by [dudantas][gh-dudantas]
-- Remove greetCallback from yaman and alesar, resolves [#1354]: [#1355][pr-1355] by [dudantas][gh-dudantas]
+- Remove greetCallback from yaman and alesar, resolves [#1354][issue-1354]: [#1355][pr-1355] by [dudantas][gh-dudantas]
 - Exhaustion fix (exevo gran mort): [#1324][pr-1324] by [Tazer89][gh-Tazer89]
 
 ---
@@ -87,9 +87,12 @@ If you like our project, feel free to pay us a coffee, pizza or something else. 
 [pr-1312]: https://github.com/opentibiabr/otservbr-global/pull/1312
 [pr-1313]: https://github.com/opentibiabr/otservbr-global/pull/1313
 [pr-1316]: https://github.com/opentibiabr/otservbr-global/pull/1316
+[pr-1320]: https://github.com/opentibiabr/otservbr-global/pull/1320
 [pr-1321]: https://github.com/opentibiabr/otservbr-global/pull/1321
 [pr-1324]: https://github.com/opentibiabr/otservbr-global/pull/1324
 [pr-1325]: https://github.com/opentibiabr/otservbr-global/pull/1325
+[pr-1327]: https://github.com/opentibiabr/otservbr-global/pull/1327
+[pr-1330]: https://github.com/opentibiabr/otservbr-global/pull/1330
 [pr-1351]: https://github.com/opentibiabr/otservbr-global/pull/1351
 [pr-1352]: https://github.com/opentibiabr/otservbr-global/pull/1352
 [pr-1355]: https://github.com/opentibiabr/otservbr-global/pull/1355
@@ -113,3 +116,6 @@ If you like our project, feel free to pay us a coffee, pizza or something else. 
 [gh-YohanAugusto]: https://github.com/YohanAugusto
 [gh-MillhioreBT]: https://github.com/MillhioreBT
 [gh-Tazer89]: https://github.com/Tazer89
+[gh-FakeShinoda]: https://github.com/FakeShinoda
+[gh-lgrossi]: https://github.com/lgrossi
+[gh-gpedro]: https://github.com/gpedro
