@@ -26,7 +26,7 @@ excerpt: A lot of problems were solved, our contributors were in full swing, com
 - Fix spawn hireling name (linux case sensitive): [#1359][pr-1359] by [dudantas][gh-dudantas]
 - Access cobra bastion and fix feyrist shrines entrance: [#1376][pr-1376] by [dudantas][gh-dudantas]
 - Golden prision key script fix and Prince Drazzak loot table small fix: [#1383][pr-1383] by [nickolasdeluca][gh-nickolasdeluca]
-- Cournament Carpet doesn't work, resolves [#1377][issue-1377]: [#1389][pr-1389] by [MajestyOTBR][gh-MajestyOTBR]
+- Tournament carpet doesn't work, resolves [#1377][issue-1377]: [#1389][pr-1389] by [MajestyOTBR][gh-MajestyOTBR]
 - Fixed problemm with Grimvale spawn: [#1385][pr-1385] by [FRReinert][gh-FRReinert]
 - Fixes in dawnport and action creation at server startup: [#1371][pr-1371] by [dudantas][gh-dudantas]
 - Fix Glooth Brigand looktype, resolves [#1356][issue-1356]: [#1401][pr-1401] by [gpedro][gh-gpedro]
