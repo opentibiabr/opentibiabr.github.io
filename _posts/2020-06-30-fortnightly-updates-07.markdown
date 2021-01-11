@@ -3,7 +3,7 @@ layout: post
 title:  "Fortnightly Update #07"
 date:   2020-06-30 20:00:00 -0400
 categories: updates
-excerpt: A lot of problems were solved, our contributors were in full swing, come check it out
+excerpt: A lot of issues resolved on the map and minor issues on the store, monsters, and quests.
 ---
 
 #### Special Thanks for our Donators
@@ -15,7 +15,7 @@ excerpt: A lot of problems were solved, our contributors were in full swing, com
 
 
 ### Changed
-- Close connection from exceeding packet per second: [#1366][pr-1366] by [lBaah][gh-lBaah]
+- Close connection from exceeding packet per second: [#1366][pr-1366] by [lBaah][gh-lbaah]
 
 
 ### Removed
@@ -26,14 +26,14 @@ excerpt: A lot of problems were solved, our contributors were in full swing, com
 - Fix spawn hireling name (linux case sensitive): [#1359][pr-1359] by [dudantas][gh-dudantas]
 - Access cobra bastion and fix feyrist shrines entrance: [#1376][pr-1376] by [dudantas][gh-dudantas]
 - Golden prision key script fix and Prince Drazzak loot table small fix: [#1383][pr-1383] by [nickolasdeluca][gh-nickolasdeluca]
-- Tournament carpet doesn't work, resolves [#1377][issue-1377]: [#1389][pr-1389] by [MajestyOTBR][gh-MajestyOTBR]
-- Fixed problemm with Grimvale spawn: [#1385][pr-1385] by [FRReinert][gh-FRReinert]
+- Tournament carpet doesn't work, resolves [#1377][issue-1377]: [#1389][pr-1389] by [MajestyOTBR][gh-majestyotbr]
+- Fixed problemm with Grimvale spawn: [#1385][pr-1385] by [FRReinert][gh-frreinert]
 - Fixes in dawnport and action creation at server startup: [#1371][pr-1371] by [dudantas][gh-dudantas]
 - Fix Glooth Brigand looktype, resolves [#1356][issue-1356]: [#1401][pr-1401] by [gpedro][gh-gpedro]
-- Fix Crackler Transform, resolves [#1388][issue-1388]: [#1404][pr-1404] by [lBaah][gh-lBaah]
-- Fix mount clientid on store table, resolves [#1391][issue-1391]: [#1406][pr-1406] by [lBaah][gh-lBaah]
-- Force secure mode, resolves [#1255][issue-1255]: [#1407][pr-1407] by [lBaah][gh-lBaah]
-- Allow walkthrough on non-pvp, resolves [#1277][issue-1277]: [#1408][pr-1408] by [lBaah][gh-lBaah]
+- Fix Crackler Transform, resolves [#1388][issue-1388]: [#1404][pr-1404] by [lBaah][gh-lbaah]
+- Fix mount clientid on store table, resolves [#1391][issue-1391]: [#1406][pr-1406] by [lBaah][gh-lbaah]
+- Force secure mode, resolves [#1255][issue-1255]: [#1407][pr-1407] by [lBaah][gh-lbaah]
+- Allow walkthrough on non-pvp, resolves [#1277][issue-1277]: [#1408][pr-1408] by [lBaah][gh-lbaah]
 - Map fixes [#1410][pr-1410] by [gpedro][gh-gpedro]:
   - Resolves [#1239][issue-1239]
   - Resolves [#1333][issue-1333]
@@ -43,8 +43,8 @@ excerpt: A lot of problems were solved, our contributors were in full swing, com
   - Resolves [#1375][issue-1375]
   - Resolves [#1386][issue-1386]
   - Resolves [#1392][issue-1392]
-- Fix greeting Atrad requires Assassin Outfit: [#1405][pr-1405] by [lBaah][gh-lBaah]
-- Fix bow of Cataclysm skill, resolves [#1390][issue-1390]: [#1413][pr-1413] by [lBaah][gh-lBaah]
+- Fix greeting Atrad requires Assassin Outfit: [#1405][pr-1405] by [lBaah][gh-lbaah]
+- Fix bow of Cataclysm skill, resolves [#1390][issue-1390]: [#1413][pr-1413] by [lBaah][gh-lbaah]
 - Fix event name typo in creaturescripts.xml: [#1374][pr-1374] by [dudantas][gh-dudantas]
 - Small fixes on the datapack [#1384][pr-1384] by [dudantas][gh-dudantas]:
   - Oberon lever correction
@@ -101,8 +101,8 @@ If you like our project, feel free to pay us a coffee, pizza or something else. 
 
 [gh-dudantas]: https://github.com/dudantas
 [gh-costallat]: https://github.com/costallat
-[gh-lBaah]: https://github.com/lBaah
+[gh-lbaah]: https://github.com/lBaah
 [gh-nickolasdeluca]: https://github.com/nickolasdeluca
-[gh-MajestyOTBR]: https://github.com/MajestyOTBR
-[gh-FRReinert]: https://github.com/FRReinert
+[gh-majestyotbr]: https://github.com/MajestyOTBR
+[gh-frreinert]: https://github.com/FRReinert
 [gh-gpedro]: https://github.com/gpedro
