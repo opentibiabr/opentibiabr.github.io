@@ -3,7 +3,7 @@ layout: post
 title:  "Fortnightly Update #07"
 date:   2020-06-30 20:00:00 -0400
 categories: updates
-excerpt: A lot of issues resolved on the map and minor issues on the store, monsters, and quests.
+excerpt: "A lot of issues resolved on the map and minor issues on the store, monsters, and quests"
 ---
 
 #### Special Thanks for our Donators
