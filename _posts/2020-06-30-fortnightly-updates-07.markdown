@@ -24,7 +24,7 @@ excerpt: A lot of issues resolved on the map and minor issues on the store, mons
 
 ### Fixed
 - Fix spawn hireling name (linux case sensitive): [#1359][pr-1359] by [dudantas][gh-dudantas]
-- Access cobra bastion and fix feyrist shrines entrance: [#1376][pr-1376] by [Heitortadeu][gh-gh-heitortadeu]
+- Access cobra bastion and fix feyrist shrines entrance: [#1376][pr-1376] by [Heitortadeu][gh-heitortadeu]
 - Golden prision key script fix and Prince Drazzak loot table small fix: [#1383][pr-1383] by [nickolasdeluca][gh-nickolasdeluca]
 - Tournament carpet doesn't work, resolves [#1377][issue-1377]: [#1389][pr-1389] by [MajestyOTBR][gh-majestyotbr]
 - Fixed problemm with Grimvale spawn: [#1385][pr-1385] by [FRReinert][gh-frreinert]
