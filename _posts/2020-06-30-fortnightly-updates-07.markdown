@@ -26,15 +26,15 @@ excerpt: A lot of problems were solved, our contributors were in full swing, com
 - Fix spawn hireling name (linux case sensitive): [#1359][pr-1359] by [dudantas][gh-dudantas]
 - Access cobra bastion and fix feyrist shrines entrance: [#1376][pr-1376] by [dudantas][gh-dudantas]
 - Golden prision key script fix and Prince Drazzak loot table small fix: [#1383][pr-1383] by [nickolasdeluca][gh-nickolasdeluca]
-- Resolves [#1377][issue-1377] (tournament Carpet doesn't work): [#1389][pr-1389] by [MajestyOTBR][gh-MajestyOTBR]
+- Cournament Carpet doesn't work, resolves [#1377][issue-1377]: [#1389][pr-1389] by [MajestyOTBR][gh-MajestyOTBR]
 - Fixed problemm with Grimvale spawn: [#1385][pr-1385] by [FRReinert][gh-FRReinert]
 - Fixes in dawnport and action creation at server startup: [#1371][pr-1371] by [dudantas][gh-dudantas]
 - Fix Glooth Brigand looktype, resolves [#1356][issue-1356]: [#1401][pr-1401] by [gpedro][gh-gpedro]
-- Fix Crackler Transform, resolves[#1388][issue-1388]: [#1404][pr-1404] by [lBaah][gh-lBaah]
-- Fix mount clientid on store table, resolves[#1391][issue-1391]: [#1406][pr-1406] by [lBaah][gh-lBaah]
-- Force secure mode, resolves[#1255][issue-1255]: [#1407][pr-1407] by [lBaah][gh-lBaah]
+- Fix Crackler Transform, resolves [#1388][issue-1388]: [#1404][pr-1404] by [lBaah][gh-lBaah]
+- Fix mount clientid on store table, resolves [#1391][issue-1391]: [#1406][pr-1406] by [lBaah][gh-lBaah]
+- Force secure mode, resolves [#1255][issue-1255]: [#1407][pr-1407] by [lBaah][gh-lBaah]
 - Allow walkthrough on non-pvp, resolves[#1277][issue-1277]: [#1408][pr-1408] by [lBaah][gh-lBaah]
-- Map fixes [#1410][pr-1392] by [gpedro][gh-gpedro]:
+- Map fixes [#1410][pr-1410] by [gpedro][gh-gpedro]:
   - Resolves [#1239][issue-1239]
   - Resolves [#1333][issue-1333]
   - Resolves [#1334][issue-1334]
@@ -43,9 +43,9 @@ excerpt: A lot of problems were solved, our contributors were in full swing, com
   - Resolves [#1375][issue-1375]
   - Resolves [#1386][issue-1386]
   - Resolves [#1392][issue-1392]
-- Fix greeting Atrad requires Assassin Outfit:[#1405][pr-1405] by [lBaah][gh-lBaah]
-- Fix bow of Cataclysm skill, resolves[#1390][issue-1390]:[#1413][pr-1413] by [lBaah][gh-lBaah]
-- Fix event name typo in creaturescripts.xml:[#1374][pr-1374] by [dudantas][gh-dudantas]
+- Fix greeting Atrad requires Assassin Outfit: [#1405][pr-1405] by [lBaah][gh-lBaah]
+- Fix bow of Cataclysm skill, resolves [#1390][issue-1390]: [#1413][pr-1413] by [lBaah][gh-lBaah]
+- Fix event name typo in creaturescripts.xml: [#1374][pr-1374] by [dudantas][gh-dudantas]
 - Small fixes on the datapack [#1384][pr-1384] by [dudantas][gh-dudantas]:
   - Oberon lever correction
   - Correction in the boss levers system, added GlobalStorage to check if the room cleaning event has already been executed or not, thus preventing the boss from cleaning before the scheduled time, while a team is inside
@@ -79,6 +79,8 @@ If you like our project, feel free to pay us a coffee, pizza or something else. 
 [pr-1406]: https://github.com/opentibiabr/otservbr-global/pull/1406
 [pr-1407]: https://github.com/opentibiabr/otservbr-global/pull/1407
 [pr-1408]: https://github.com/opentibiabr/otservbr-global/pull/1408
+[pr-1410]: https://github.com/opentibiabr/otservbr-global/pull/1410
+[pr-1412]: https://github.com/opentibiabr/otservbr-global/pull/1412
 [pr-1413]: https://github.com/opentibiabr/otservbr-global/pull/1413
 
 [issue-1239]: https://github.com/opentibiabr/otservbr-global/issues/1239
