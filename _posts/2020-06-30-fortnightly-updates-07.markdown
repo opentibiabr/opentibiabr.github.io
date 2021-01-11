@@ -19,7 +19,7 @@ excerpt: A lot of problems were solved, our contributors were in full swing, com
 
 
 ### Removed
-- Removes log:[#1412][pr-1412] by [costallat][gh-costallat]
+- Removes log: [#1412][pr-1412] by [costallat][gh-costallat]
 
 
 ### Fixed
@@ -33,7 +33,7 @@ excerpt: A lot of problems were solved, our contributors were in full swing, com
 - Fix Crackler Transform, resolves [#1388][issue-1388]: [#1404][pr-1404] by [lBaah][gh-lBaah]
 - Fix mount clientid on store table, resolves [#1391][issue-1391]: [#1406][pr-1406] by [lBaah][gh-lBaah]
 - Force secure mode, resolves [#1255][issue-1255]: [#1407][pr-1407] by [lBaah][gh-lBaah]
-- Allow walkthrough on non-pvp, resolves[#1277][issue-1277]: [#1408][pr-1408] by [lBaah][gh-lBaah]
+- Allow walkthrough on non-pvp, resolves [#1277][issue-1277]: [#1408][pr-1408] by [lBaah][gh-lBaah]
 - Map fixes [#1410][pr-1410] by [gpedro][gh-gpedro]:
   - Resolves [#1239][issue-1239]
   - Resolves [#1333][issue-1333]
